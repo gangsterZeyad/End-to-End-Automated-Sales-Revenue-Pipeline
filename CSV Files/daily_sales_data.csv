@@ -1,0 +1,519 @@
+sale_date,productid,productname,quantity,price
+7/4/1996,11,queso cabrales,12,21
+7/4/1996,42,singaporean hokkien fried mee,10,14
+7/4/1996,72,mozzarella di giovanni,5,34.8
+7/5/1996,14,tofu,9,23.25
+7/5/1996,51,manjimup dried apples,40,53
+7/8/1996,41,jack's new england clam chowder,10,9.65
+7/8/1996,51,manjimup dried apples,35,53
+7/8/1996,65,louisiana fiery hot pepper sauce,15,21.05
+7/8/1996,22,gustaf's knäckebröd,6,21
+7/8/1996,57,ravioli angelo,15,19.5
+7/8/1996,65,louisiana fiery hot pepper sauce,20,21.05
+7/9/1996,20,sir rodney's marmalade,40,81
+7/9/1996,33,geitost,25,2.5
+7/9/1996,60,camembert pierrot,40,34
+7/10/1996,31,gorgonzola telino,20,12.5
+7/10/1996,39,chartreuse verte,42,18
+7/10/1996,49,maxilaku,40,20
+7/11/1996,24,guaraná fantástica,15,4.5
+7/11/1996,55,pâté chinois,21,24
+7/11/1996,74,longlife tofu,21,10
+7/12/1996,2,chang,20,19
+7/12/1996,16,pavlova,35,17.45
+7/12/1996,36,inlagd sill,25,19
+7/12/1996,59,raclette courdavault,30,55
+7/15/1996,53,perth pasties,15,32.8
+7/15/1996,77,original frankfurter grüne soße,12,13
+7/16/1996,27,schoggi schokolade,25,43.9
+7/16/1996,39,chartreuse verte,6,18
+7/16/1996,77,original frankfurter grüne soße,15,13
+7/17/1996,2,chang,50,19
+7/17/1996,5,chef anton's gumbo mix,65,21.35
+7/17/1996,32,mascarpone fabioli,6,32
+7/18/1996,21,sir rodney's scones,10,10
+7/18/1996,37,gravad lax,1,26
+7/19/1996,41,jack's new england clam chowder,16,9.65
+7/19/1996,57,ravioli angelo,50,19.5
+7/19/1996,62,tarte au sucre,15,49.3
+7/19/1996,70,outback lager,21,15
+7/19/1996,21,sir rodney's scones,20,10
+7/19/1996,35,steeleye stout,20,18
+7/22/1996,5,chef anton's gumbo mix,12,21.35
+7/22/1996,7,uncle bob's organic dried pears,15,30
+7/22/1996,56,gnocchi di nonna alice,2,38
+7/23/1996,16,pavlova,60,17.45
+7/23/1996,24,guaraná fantástica,28,4.5
+7/23/1996,30,nord-ost matjeshering,60,25.89
+7/23/1996,74,longlife tofu,36,10
+7/24/1996,2,chang,35,19
+7/24/1996,41,jack's new england clam chowder,25,9.65
+7/25/1996,17,alice mutton,30,39
+7/25/1996,70,outback lager,20,15
+7/26/1996,12,queso manchego la pastora,12,38
+7/29/1996,40,boston crab meat,50,18.4
+7/29/1996,59,raclette courdavault,70,55
+7/29/1996,76,lakkalikööri,15,18
+7/30/1996,29,thüringer rostbratwurst,10,123.79
+7/30/1996,72,mozzarella di giovanni,4,34.8
+7/31/1996,33,geitost,60,2.5
+7/31/1996,72,mozzarella di giovanni,20,34.8
+8/1/1996,36,inlagd sill,30,19
+8/1/1996,43,ipoh coffee,25,46
+8/1/1996,33,geitost,24,2.5
+8/2/1996,20,sir rodney's marmalade,6,81
+8/2/1996,31,gorgonzola telino,40,12.5
+8/2/1996,72,mozzarella di giovanni,24,34.8
+8/5/1996,10,ikura,24,31
+8/5/1996,31,gorgonzola telino,15,12.5
+8/5/1996,33,geitost,20,2.5
+8/5/1996,40,boston crab meat,60,18.4
+8/5/1996,76,lakkalikööri,33,18
+8/6/1996,71,fløtemysost,20,21.5
+8/6/1996,72,mozzarella di giovanni,7,34.8
+8/7/1996,24,guaraná fantástica,12,4.5
+8/7/1996,59,raclette courdavault,6,55
+8/8/1996,10,ikura,15,31
+8/8/1996,13,konbu,10,6
+8/9/1996,28,rössle sauerkraut,20,45.6
+8/9/1996,62,tarte au sucre,12,49.3
+8/12/1996,44,gula malacca,16,19.45
+8/12/1996,59,raclette courdavault,15,55
+8/12/1996,63,vegie-spread,8,43.9
+8/12/1996,73,röd kaviar,25,15
+8/13/1996,17,alice mutton,15,39
+8/14/1996,24,guaraná fantástica,12,4.5
+8/14/1996,55,pâté chinois,20,24
+8/14/1996,75,rhönbräu klosterbier,30,7.75
+8/14/1996,19,teatime chocolate biscuits,1,9.2
+8/14/1996,24,guaraná fantástica,6,4.5
+8/14/1996,35,steeleye stout,4,18
+8/15/1996,30,nord-ost matjeshering,6,25.89
+8/15/1996,57,ravioli angelo,2,19.5
+8/16/1996,15,genen shouyu,20,15.5
+8/16/1996,19,teatime chocolate biscuits,18,9.2
+8/16/1996,60,camembert pierrot,35,34
+8/16/1996,72,mozzarella di giovanni,3,34.8
+8/19/1996,27,schoggi schokolade,15,43.9
+8/19/1996,44,gula malacca,21,19.45
+8/19/1996,60,camembert pierrot,20,34
+8/19/1996,67,laughing lumberjack lager,5,14
+8/20/1996,1,chais,45,18
+8/20/1996,40,boston crab meat,40,18.4
+8/20/1996,53,perth pasties,36,32.8
+8/21/1996,35,steeleye stout,100,18
+8/21/1996,62,tarte au sucre,40,49.3
+8/22/1996,16,pavlova,40,17.45
+8/22/1996,34,sasquatch ale,20,14
+8/22/1996,46,spegesild,15,12
+8/23/1996,54,tourtière,10,7.45
+8/23/1996,68,scottish longbreads,3,12.5
+8/26/1996,3,aniseed syrup,30,10
+8/26/1996,64,wimmers gute semmelknödel,9,33.25
+8/27/1996,5,chef anton's gumbo mix,20,21.35
+8/27/1996,29,thüringer rostbratwurst,15,123.79
+8/27/1996,49,maxilaku,15,20
+8/27/1996,77,original frankfurter grüne soße,10,13
+8/27/1996,13,konbu,20,6
+8/27/1996,44,gula malacca,24,19.45
+8/27/1996,51,manjimup dried apples,2,53
+8/28/1996,20,sir rodney's marmalade,20,81
+8/29/1996,18,carnarvon tigers,12,62.5
+8/29/1996,24,guaraná fantástica,10,4.5
+8/29/1996,63,vegie-spread,5,43.9
+8/29/1996,75,rhönbräu klosterbier,6,7.75
+8/30/1996,1,chais,18,18
+8/30/1996,17,alice mutton,15,39
+8/30/1996,43,ipoh coffee,15,46
+8/30/1996,60,camembert pierrot,21,34
+8/30/1996,75,rhönbräu klosterbier,6,7.75
+9/2/1996,56,gnocchi di nonna alice,4,38
+9/3/1996,11,queso cabrales,12,21
+9/3/1996,16,pavlova,30,17.45
+9/3/1996,69,gudbrandsdalsost,15,36
+9/4/1996,39,chartreuse verte,60,18
+9/4/1996,72,mozzarella di giovanni,20,34.8
+9/5/1996,2,chang,40,19
+9/5/1996,36,inlagd sill,40,19
+9/5/1996,59,raclette courdavault,30,55
+9/5/1996,62,tarte au sucre,15,49.3
+9/6/1996,19,teatime chocolate biscuits,15,9.2
+9/6/1996,70,outback lager,20,15
+9/9/1996,66,louisiana hot spiced okra,30,17
+9/9/1996,68,scottish longbreads,20,12.5
+9/9/1996,40,boston crab meat,10,18.4
+9/9/1996,56,gnocchi di nonna alice,20,38
+9/10/1996,17,alice mutton,40,39
+9/10/1996,28,rössle sauerkraut,28,45.6
+9/10/1996,43,ipoh coffee,12,46
+9/11/1996,40,boston crab meat,40,18.4
+9/11/1996,65,louisiana fiery hot pepper sauce,30,21.05
+9/11/1996,68,scottish longbreads,15,12.5
+9/12/1996,49,maxilaku,30,20
+9/12/1996,59,raclette courdavault,10,55
+9/12/1996,71,fløtemysost,2,21.5
+9/13/1996,18,carnarvon tigers,25,62.5
+9/13/1996,29,thüringer rostbratwurst,25,123.79
+9/13/1996,39,chartreuse verte,30,18
+9/16/1996,30,nord-ost matjeshering,10,25.89
+9/16/1996,53,perth pasties,10,32.8
+9/16/1996,54,tourtière,5,7.45
+9/17/1996,62,tarte au sucre,10,49.3
+9/17/1996,68,scottish longbreads,3,12.5
+9/18/1996,69,gudbrandsdalsost,1,36
+9/18/1996,70,outback lager,5,15
+9/19/1996,4,chef anton's cajun seasoning,20,22
+9/19/1996,6,grandma's boysenberry spread,30,25
+9/19/1996,42,singaporean hokkien fried mee,2,14
+9/19/1996,43,ipoh coffee,20,46
+9/19/1996,71,fløtemysost,3,21.5
+9/20/1996,16,pavlova,10,17.45
+9/20/1996,62,tarte au sucre,5,49.3
+9/20/1996,42,singaporean hokkien fried mee,6,14
+9/20/1996,69,gudbrandsdalsost,7,36
+9/23/1996,28,rössle sauerkraut,4,45.6
+9/23/1996,43,ipoh coffee,24,46
+9/23/1996,53,perth pasties,20,32.8
+9/23/1996,75,rhönbräu klosterbier,10,7.75
+9/24/1996,36,inlagd sill,12,19
+9/25/1996,32,mascarpone fabioli,40,32
+9/25/1996,58,escargots de bourgogne,30,13.25
+9/25/1996,62,tarte au sucre,25,49.3
+9/26/1996,34,sasquatch ale,14,14
+9/26/1996,70,outback lager,30,15
+9/27/1996,41,jack's new england clam chowder,10,9.65
+9/27/1996,62,tarte au sucre,70,49.3
+9/30/1996,1,chais,20,18
+10/1/1996,41,jack's new england clam chowder,20,9.65
+10/1/1996,76,lakkalikööri,6,18
+10/2/1996,17,alice mutton,8,39
+10/2/1996,28,rössle sauerkraut,14,45.6
+10/2/1996,76,lakkalikööri,30,18
+10/3/1996,71,fløtemysost,30,21.5
+10/3/1996,35,steeleye stout,10,18
+10/4/1996,52,filo mix,20,7
+10/7/1996,15,genen shouyu,5,15.5
+10/7/1996,25,nunuca nuß-nougat-creme,4,14
+10/7/1996,39,chartreuse verte,4,18
+10/8/1996,16,pavlova,21,17.45
+10/8/1996,35,steeleye stout,70,18
+10/8/1996,46,spegesild,30,12
+10/8/1996,59,raclette courdavault,40,55
+10/8/1996,63,vegie-spread,80,43.9
+10/9/1996,6,grandma's boysenberry spread,6,25
+10/9/1996,13,konbu,12,6
+10/9/1996,14,tofu,9,23.25
+10/9/1996,31,gorgonzola telino,4,12.5
+10/9/1996,72,mozzarella di giovanni,40,34.8
+10/10/1996,4,chef anton's cajun seasoning,24,22
+10/10/1996,57,ravioli angelo,16,19.5
+10/10/1996,75,rhönbräu klosterbier,50,7.75
+10/11/1996,2,chang,25,19
+10/11/1996,11,queso cabrales,50,21
+10/11/1996,30,nord-ost matjeshering,35,25.89
+10/11/1996,58,escargots de bourgogne,30,13.25
+10/14/1996,59,raclette courdavault,9,55
+10/14/1996,65,louisiana fiery hot pepper sauce,40,21.05
+10/14/1996,68,scottish longbreads,10,12.5
+10/15/1996,19,teatime chocolate biscuits,10,9.2
+10/15/1996,30,nord-ost matjeshering,8,25.89
+10/15/1996,38,côte de blaye,20,263.5
+10/15/1996,56,gnocchi di nonna alice,12,38
+10/16/1996,26,gumbär gummibärchen,50,31.23
+10/16/1996,72,mozzarella di giovanni,25,34.8
+10/16/1996,54,tourtière,15,7.45
+10/17/1996,18,carnarvon tigers,40,62.5
+10/17/1996,42,singaporean hokkien fried mee,10,14
+10/17/1996,47,zaanse koeken,16,9.5
+10/18/1996,14,tofu,10,23.25
+10/18/1996,21,sir rodney's scones,10,10
+10/18/1996,71,fløtemysost,40,21.5
+10/21/1996,52,filo mix,8,7
+10/21/1996,68,scottish longbreads,10,12.5
+10/22/1996,2,chang,7,19
+10/22/1996,31,gorgonzola telino,25,12.5
+10/22/1996,32,mascarpone fabioli,6,32
+10/22/1996,51,manjimup dried apples,48,53
+10/23/1996,4,chef anton's cajun seasoning,18,22
+10/24/1996,23,tunnbröd,40,9
+10/24/1996,26,gumbär gummibärchen,24,31.23
+10/24/1996,36,inlagd sill,20,19
+10/24/1996,37,gravad lax,28,26
+10/24/1996,72,mozzarella di giovanni,25,34.8
+10/25/1996,17,alice mutton,20,39
+10/25/1996,30,nord-ost matjeshering,15,25.89
+10/28/1996,4,chef anton's cajun seasoning,10,22
+10/28/1996,17,alice mutton,70,39
+10/28/1996,62,tarte au sucre,28,49.3
+10/29/1996,18,carnarvon tigers,20,62.5
+10/29/1996,41,jack's new england clam chowder,12,9.65
+10/29/1996,43,ipoh coffee,40,46
+10/29/1996,33,geitost,8,2.5
+10/29/1996,59,raclette courdavault,9,55
+10/30/1996,2,chang,24,19
+10/30/1996,31,gorgonzola telino,56,12.5
+10/30/1996,36,inlagd sill,40,19
+10/30/1996,55,pâté chinois,40,24
+10/31/1996,64,wimmers gute semmelknödel,50,33.25
+10/31/1996,68,scottish longbreads,4,12.5
+10/31/1996,76,lakkalikööri,15,18
+11/1/1996,4,chef anton's cajun seasoning,35,22
+11/1/1996,8,northwoods cranberry sauce,70,40
+11/4/1996,8,northwoods cranberry sauce,70,40
+11/4/1996,19,teatime chocolate biscuits,80,9.2
+11/4/1996,42,singaporean hokkien fried mee,9,14
+11/5/1996,17,alice mutton,36,39
+11/5/1996,56,gnocchi di nonna alice,20,38
+11/6/1996,25,nunuca nuß-nougat-creme,10,14
+11/6/1996,39,chartreuse verte,50,18
+11/6/1996,40,boston crab meat,4,18.4
+11/6/1996,75,rhönbräu klosterbier,6,7.75
+11/7/1996,1,chais,15,18
+11/7/1996,23,tunnbröd,25,9
+11/8/1996,54,tourtière,24,7.45
+11/11/1996,50,valkoinen suklaa,15,16.25
+11/11/1996,69,gudbrandsdalsost,18,36
+11/11/1996,38,côte de blaye,20,263.5
+11/11/1996,41,jack's new england clam chowder,13,9.65
+11/11/1996,44,gula malacca,77,19.45
+11/11/1996,65,louisiana fiery hot pepper sauce,10,21.05
+11/12/1996,24,guaraná fantástica,10,4.5
+11/12/1996,54,tourtière,20,7.45
+11/13/1996,11,queso cabrales,12,21
+11/13/1996,38,côte de blaye,50,263.5
+11/14/1996,1,chais,12,18
+11/14/1996,29,thüringer rostbratwurst,4,123.79
+11/15/1996,24,guaraná fantástica,25,4.5
+11/15/1996,57,ravioli angelo,25,19.5
+11/18/1996,31,gorgonzola telino,30,12.5
+11/18/1996,55,pâté chinois,12,24
+11/18/1996,69,gudbrandsdalsost,20,36
+11/19/1996,10,ikura,30,31
+11/19/1996,26,gumbär gummibärchen,16,31.23
+11/19/1996,60,camembert pierrot,8,34
+11/20/1996,24,guaraná fantástica,10,4.5
+11/20/1996,34,sasquatch ale,10,14
+11/20/1996,36,inlagd sill,20,19
+11/21/1996,16,pavlova,56,17.45
+11/21/1996,31,gorgonzola telino,70,12.5
+11/21/1996,60,camembert pierrot,80,34
+11/22/1996,28,rössle sauerkraut,30,45.6
+11/22/1996,29,thüringer rostbratwurst,35,123.79
+11/22/1996,38,côte de blaye,10,263.5
+11/22/1996,49,maxilaku,35,20
+11/22/1996,54,tourtière,28,7.45
+11/22/1996,39,chartreuse verte,54,18
+11/22/1996,60,camembert pierrot,55,34
+11/25/1996,25,nunuca nuß-nougat-creme,50,14
+11/25/1996,51,manjimup dried apples,20,53
+11/25/1996,54,tourtière,24,7.45
+11/26/1996,31,gorgonzola telino,20,12.5
+11/26/1996,75,rhönbräu klosterbier,12,7.75
+11/26/1996,76,lakkalikööri,12,18
+11/26/1996,69,gudbrandsdalsost,30,36
+11/26/1996,71,fløtemysost,5,21.5
+11/27/1996,11,queso cabrales,24,21
+11/28/1996,65,louisiana fiery hot pepper sauce,5,21.05
+11/28/1996,77,original frankfurter grüne soße,5,13
+11/28/1996,34,sasquatch ale,36,14
+11/28/1996,54,tourtière,18,7.45
+11/28/1996,65,louisiana fiery hot pepper sauce,15,21.05
+11/28/1996,77,original frankfurter grüne soße,7,13
+11/29/1996,21,sir rodney's scones,5,10
+11/29/1996,28,rössle sauerkraut,13,45.6
+11/29/1996,57,ravioli angelo,25,19.5
+11/29/1996,64,wimmers gute semmelknödel,35,33.25
+12/2/1996,29,thüringer rostbratwurst,20,123.79
+12/2/1996,56,gnocchi di nonna alice,18,38
+12/3/1996,1,chais,15,18
+12/3/1996,64,wimmers gute semmelknödel,30,33.25
+12/3/1996,74,longlife tofu,20,10
+12/3/1996,36,inlagd sill,6,19
+12/4/1996,20,sir rodney's marmalade,12,81
+12/4/1996,38,côte de blaye,40,263.5
+12/4/1996,60,camembert pierrot,70,34
+12/4/1996,72,mozzarella di giovanni,42,34.8
+12/5/1996,58,escargots de bourgogne,80,13.25
+12/5/1996,71,fløtemysost,50,21.5
+12/5/1996,31,gorgonzola telino,30,12.5
+12/5/1996,58,escargots de bourgogne,15,13.25
+12/6/1996,14,tofu,15,23.25
+12/6/1996,54,tourtière,10,7.45
+12/9/1996,31,gorgonzola telino,42,12.5
+12/9/1996,28,rössle sauerkraut,20,45.6
+12/9/1996,39,chartreuse verte,20,18
+12/10/1996,71,fløtemysost,6,21.5
+12/11/1996,41,jack's new england clam chowder,8,9.65
+12/11/1996,63,vegie-spread,16,43.9
+12/11/1996,65,louisiana fiery hot pepper sauce,20,21.05
+12/12/1996,30,nord-ost matjeshering,18,25.89
+12/12/1996,53,perth pasties,20,32.8
+12/12/1996,60,camembert pierrot,6,34
+12/12/1996,70,outback lager,30,15
+12/12/1996,74,longlife tofu,14,10
+12/13/1996,5,chef anton's gumbo mix,32,21.35
+12/13/1996,18,carnarvon tigers,9,62.5
+12/13/1996,29,thüringer rostbratwurst,14,123.79
+12/13/1996,33,geitost,60,2.5
+12/13/1996,74,longlife tofu,50,10
+12/16/1996,13,konbu,20,6
+12/16/1996,50,valkoinen suklaa,15,16.25
+12/16/1996,56,gnocchi di nonna alice,20,38
+12/16/1996,20,sir rodney's marmalade,28,81
+12/16/1996,60,camembert pierrot,15,34
+12/17/1996,7,uncle bob's organic dried pears,10,30
+12/17/1996,60,camembert pierrot,20,34
+12/17/1996,68,scottish longbreads,8,12.5
+12/18/1996,24,guaraná fantástica,15,4.5
+12/18/1996,34,sasquatch ale,10,14
+12/18/1996,24,guaraná fantástica,15,4.5
+12/18/1996,28,rössle sauerkraut,6,45.6
+12/18/1996,59,raclette courdavault,12,55
+12/18/1996,71,fløtemysost,15,21.5
+12/19/1996,45,røgede sild,15,9.5
+12/19/1996,52,filo mix,20,7
+12/19/1996,53,perth pasties,40,32.8
+12/20/1996,10,ikura,16,31
+12/20/1996,55,pâté chinois,15,24
+12/20/1996,62,tarte au sucre,20,49.3
+12/20/1996,70,outback lager,30,15
+12/23/1996,31,gorgonzola telino,60,12.5
+12/23/1996,35,steeleye stout,40,18
+12/23/1996,46,spegesild,45,12
+12/23/1996,72,mozzarella di giovanni,24,34.8
+12/23/1996,13,konbu,18,6
+12/24/1996,69,gudbrandsdalsost,50,36
+12/25/1996,2,chang,25,19
+12/25/1996,14,tofu,42,23.25
+12/25/1996,25,nunuca nuß-nougat-creme,7,14
+12/25/1996,26,gumbär gummibärchen,70,31.23
+12/25/1996,31,gorgonzola telino,32,12.5
+12/25/1996,13,konbu,10,6
+12/25/1996,62,tarte au sucre,10,49.3
+12/26/1996,46,spegesild,28,12
+12/26/1996,53,perth pasties,70,32.8
+12/26/1996,69,gudbrandsdalsost,8,36
+12/27/1996,23,tunnbröd,40,9
+12/27/1996,71,fløtemysost,60,21.5
+12/27/1996,72,mozzarella di giovanni,21,34.8
+12/27/1996,21,sir rodney's scones,10,10
+12/27/1996,51,manjimup dried apples,18,53
+12/30/1996,35,steeleye stout,30,18
+12/30/1996,55,pâté chinois,120,24
+12/31/1996,68,scottish longbreads,60,12.5
+12/31/1996,71,fløtemysost,30,21.5
+12/31/1996,76,lakkalikööri,35,18
+12/31/1996,77,original frankfurter grüne soße,14,13
+1/1/1997,29,thüringer rostbratwurst,21,123.79
+1/1/1997,35,steeleye stout,35,18
+1/1/1997,49,maxilaku,30,20
+1/1/1997,30,nord-ost matjeshering,18,25.89
+1/1/1997,56,gnocchi di nonna alice,70,38
+1/1/1997,65,louisiana fiery hot pepper sauce,20,21.05
+1/1/1997,71,fløtemysost,60,21.5
+1/2/1997,23,tunnbröd,60,9
+1/2/1997,63,vegie-spread,65,43.9
+1/3/1997,16,pavlova,21,17.45
+1/3/1997,48,chocolade,70,12.75
+1/3/1997,26,gumbär gummibärchen,30,31.23
+1/3/1997,42,singaporean hokkien fried mee,40,14
+1/3/1997,49,maxilaku,30,20
+1/6/1997,3,aniseed syrup,50,10
+1/7/1997,1,chais,10,18
+1/7/1997,21,sir rodney's scones,30,10
+1/7/1997,28,rössle sauerkraut,42,45.6
+1/7/1997,36,inlagd sill,5,19
+1/7/1997,40,boston crab meat,2,18.4
+1/7/1997,11,queso cabrales,30,21
+1/7/1997,69,gudbrandsdalsost,15,36
+1/7/1997,71,fløtemysost,15,21.5
+1/8/1997,37,gravad lax,10,26
+1/8/1997,54,tourtière,6,7.45
+1/8/1997,62,tarte au sucre,35,49.3
+1/9/1997,14,tofu,12,23.25
+1/9/1997,21,sir rodney's scones,12,10
+1/10/1997,33,geitost,49,2.5
+1/10/1997,59,raclette courdavault,16,55
+1/10/1997,41,jack's new england clam chowder,25,9.65
+1/10/1997,44,gula malacca,40,19.45
+1/10/1997,59,raclette courdavault,9,55
+1/13/1997,14,tofu,20,23.25
+1/14/1997,1,chais,24,18
+1/14/1997,62,tarte au sucre,40,49.3
+1/14/1997,76,lakkalikööri,14,18
+1/14/1997,19,teatime chocolate biscuits,18,9.2
+1/14/1997,33,geitost,50,2.5
+1/15/1997,17,alice mutton,2,39
+1/15/1997,33,geitost,20,2.5
+1/16/1997,19,teatime chocolate biscuits,20,9.2
+1/16/1997,53,perth pasties,10,32.8
+1/16/1997,57,ravioli angelo,20,19.5
+1/16/1997,38,côte de blaye,50,263.5
+1/16/1997,46,spegesild,2,12
+1/16/1997,68,scottish longbreads,36,12.5
+1/16/1997,77,original frankfurter grüne soße,35,13
+1/17/1997,2,chang,60,19
+1/17/1997,47,zaanse koeken,55,9.5
+1/17/1997,61,sirop d'érable,16,28.5
+1/17/1997,74,longlife tofu,15,10
+1/20/1997,60,camembert pierrot,60,34
+1/20/1997,69,gudbrandsdalsost,20,36
+1/21/1997,9,mishi kobe niku,20,97
+1/21/1997,13,konbu,2,6
+1/21/1997,70,outback lager,8,15
+1/21/1997,73,röd kaviar,20,15
+1/21/1997,19,teatime chocolate biscuits,4,9.2
+1/21/1997,26,gumbär gummibärchen,30,31.23
+1/21/1997,53,perth pasties,15,32.8
+1/21/1997,77,original frankfurter grüne soße,10,13
+1/22/1997,26,gumbär gummibärchen,2,31.23
+1/23/1997,31,gorgonzola telino,14,12.5
+1/23/1997,59,raclette courdavault,20,55
+1/23/1997,35,steeleye stout,60,18
+1/23/1997,38,côte de blaye,49,263.5
+1/23/1997,68,scottish longbreads,30,12.5
+1/24/1997,55,pâté chinois,10,24
+1/24/1997,76,lakkalikööri,20,18
+1/27/1997,56,gnocchi di nonna alice,5,38
+1/27/1997,64,wimmers gute semmelknödel,7,33.25
+1/27/1997,14,tofu,35,23.25
+1/28/1997,46,spegesild,20,12
+1/29/1997,50,valkoinen suklaa,40,16.25
+1/29/1997,63,vegie-spread,35,43.9
+1/30/1997,17,alice mutton,45,39
+1/30/1997,21,sir rodney's scones,50,10
+1/30/1997,56,gnocchi di nonna alice,30,38
+1/30/1997,59,raclette courdavault,70,55
+1/30/1997,17,alice mutton,50,39
+1/30/1997,40,boston crab meat,50,18.4
+1/30/1997,47,zaanse koeken,30,9.5
+1/31/1997,26,gumbär gummibärchen,10,31.23
+1/31/1997,54,tourtière,40,7.45
+2/3/1997,56,gnocchi di nonna alice,28,38
+2/3/1997,11,queso cabrales,6,21
+2/3/1997,76,lakkalikööri,18,18
+2/4/1997,2,chang,10,19
+2/4/1997,22,gustaf's knäckebröd,12,21
+2/4/1997,72,mozzarella di giovanni,10,34.8
+2/5/1997,46,spegesild,5,12
+2/5/1997,56,gnocchi di nonna alice,40,38
+2/5/1997,64,wimmers gute semmelknödel,30,33.25
+2/5/1997,75,rhönbräu klosterbier,24,7.75
+2/5/1997,53,perth pasties,15,32.8
+2/6/1997,19,teatime chocolate biscuits,15,9.2
+2/6/1997,34,sasquatch ale,20,14
+2/6/1997,57,ravioli angelo,15,19.5
+2/7/1997,12,queso manchego la pastora,15,38
+2/7/1997,16,pavlova,16,17.45
+2/7/1997,64,wimmers gute semmelknödel,6,33.25
+2/7/1997,74,longlife tofu,30,10
+2/10/1997,2,chang,45,19
+2/10/1997,16,pavlova,49,17.45
+2/10/1997,29,thüringer rostbratwurst,24,123.79
+2/10/1997,61,sirop d'érable,90,28.5
+2/10/1997,27,schoggi schokolade,50,43.9
+2/11/1997,11,queso cabrales,30,21
+2/11/1997,54,tourtière,80,7.45
+2/11/1997,66,louisiana hot spiced okra,60,17
+2/12/1997,11,queso cabrales,6,21
+2/12/1997,28,rössle sauerkraut,12,45.6
