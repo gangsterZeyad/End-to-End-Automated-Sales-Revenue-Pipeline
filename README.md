@@ -28,7 +28,8 @@ I - Use Apache Airflow DAG to run the whole workflow automatically on a schedule
 4- Apache Airflow
 5- Oracle VirtualBox
 
-![Architecture Diagram Digram](images/"C:\Users\Zeyad Hussien\Downloads\Architecture Diagram.png")
+![Architecture Diagram](Architecture%20digram/Architecture diagram.png)
+
   
 
 
