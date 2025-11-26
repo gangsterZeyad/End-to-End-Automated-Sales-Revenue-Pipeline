@@ -32,6 +32,4 @@
 - Apache Airflow
 - Oracle VirtualBox
 
----
-# Arcihecture digram
-![Arcihecture digram](Arcihecture%20digram./Arcihecture%20digram.png)
+
