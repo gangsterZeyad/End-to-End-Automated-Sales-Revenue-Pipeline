@@ -7,7 +7,7 @@
 
 ---
 
-# What the Pipeline Does
+# What the Pipeline Does ?
 
 ## 1 - Extract
 - Connect to PostgreSQL using Airflow
