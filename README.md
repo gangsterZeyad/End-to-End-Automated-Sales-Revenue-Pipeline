@@ -34,4 +34,4 @@
 
 ---
 # Arcihecture digram
-![Arcihecture digram](Arcihecture%20digram/Arcihecture digram.png)
+![Arcihecture digram](Arcihecture%20digram/Arcihecture_digram.png)
