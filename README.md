@@ -1,37 +1,33 @@
-End-to-End Automated Sales Revenue Pipeline
+# Project Objectives
 
-Project Objectives :
-1- Build an automated data pipeline using Apache Airflow
-2- Extracts daily sales data from a PostgreSQL database
-3- Calculates total daily revenue using SQL and Python
-4- Stores the final processed output in a CSV file for reporting and further analysis
+1. Build an automated data pipeline using Apache Airflow
+2. Extract daily sales data from a PostgreSQL database
+3. Calculate total daily revenue using SQL and Python
+4. Store the final processed output in a CSV file for reporting and further analysis
 
-What the Pipeline Does ? 
-1 - Extract :
-I - Connect to PostgreSQL using Airflow.
-II - Run SQL queries to pull raw daily sales data.
+---
 
-2 - Transform :
-I - Calculate daily revenue using Python (pandas) or SQL aggregation.
-II- Clean and prepare the final dataset.
+# What the Pipeline Does
 
-3 - Load : 
-I - Save the final daily revenue results into a CSV file inside the Airflow output directory
+## 1 - Extract
+- Connect to PostgreSQL using Airflow
+- Run SQL queries to pull raw daily sales data
 
-4 - Automate : 
-I - Use Apache Airflow DAG to run the whole workflow automatically on a schedule.
+## 2 - Transform
+- Calculate daily revenue using Python (pandas) or SQL aggregation
+- Clean and prepare the final dataset
 
-🛠 Tools Used : 
-1 - Python (Pandas , Numpy , Matplotlib , airflow ..etc) 
-2- SQL 
-3- PostgreSQL
-4- Apache Airflow
-5- Oracle VirtualBox
+## 3 - Load
+- Save the final daily revenue results into a CSV file inside the Airflow output directory
 
-![Architecture Diagram](Architecture%20digram/Architecture diagram.png)
+## 4 - Automate
+- Use Apache Airflow DAG to run the whole workflow automatically on a schedule
 
-  
+---
 
-
-
-
+# 🛠 Tools Used
+- Python (Pandas, Numpy, Matplotlib, Airflow, etc.)
+- SQL
+- PostgreSQL
+- Apache Airflow
+- Oracle VirtualBox
